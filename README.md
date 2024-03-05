@@ -2,10 +2,7 @@
 
 Challenge: Enhancing Subscription Renewal Rate
 
-You have been tasked with adding a feature to your company's software. 
-The feature aims to improve the renewal rate of software subscriptions. 
-Your task is to display a renewal message when a user logs into the software system and receives a notification that the subscription is about to expire. 
-You will need to add a couple of decision statements to properly incorporate branching logic into the application to meet the requirements.
+You have been tasked with adding a feature to your company's software. The feature aims to improve the renewal rate of software subscriptions. Your task is to display a renewal message when a user logs into the software system and receives a notification that the subscription is about to expire. You will need to add a couple of decision statements to properly incorporate branching logic into the application to meet the requirements.
 
 It is another simple program I made using conditional statements - if, else-if, else.
 
