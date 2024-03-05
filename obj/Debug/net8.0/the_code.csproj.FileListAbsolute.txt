@@ -1,0 +1,15 @@
+C:\INFORMATIC\C#\signatures\the_code\obj\Debug\net8.0\the_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\INFORMATIC\C#\signatures\the_code\obj\Debug\net8.0\the_code.AssemblyInfoInputs.cache
+C:\INFORMATIC\C#\signatures\the_code\obj\Debug\net8.0\the_code.AssemblyInfo.cs
+C:\INFORMATIC\C#\signatures\the_code\obj\Debug\net8.0\the_code.csproj.CoreCompileInputs.cache
+C:\INFORMATIC\C#\signatures\the_code\obj\Debug\net8.0\the_code.sourcelink.json
+C:\INFORMATIC\C#\signatures\the_code\bin\Debug\net8.0\the_code.exe
+C:\INFORMATIC\C#\signatures\the_code\bin\Debug\net8.0\the_code.deps.json
+C:\INFORMATIC\C#\signatures\the_code\bin\Debug\net8.0\the_code.runtimeconfig.json
+C:\INFORMATIC\C#\signatures\the_code\bin\Debug\net8.0\the_code.dll
+C:\INFORMATIC\C#\signatures\the_code\bin\Debug\net8.0\the_code.pdb
+C:\INFORMATIC\C#\signatures\the_code\obj\Debug\net8.0\the_code.dll
+C:\INFORMATIC\C#\signatures\the_code\obj\Debug\net8.0\refint\the_code.dll
+C:\INFORMATIC\C#\signatures\the_code\obj\Debug\net8.0\the_code.pdb
+C:\INFORMATIC\C#\signatures\the_code\obj\Debug\net8.0\the_code.genruntimeconfig.cache
+C:\INFORMATIC\C#\signatures\the_code\obj\Debug\net8.0\ref\the_code.dll
